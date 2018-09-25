@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "BoJack Horseman",
+      "clicked" : false,
+      "image":
+        ""
+    },
+    {
+      "id": 2,
+      "name": "Princess Carolyn",
+      "clicked" : false,
+      "image":
+        ""
+    },
+    {
+      "id": 3,
+      "name": "Mr. Peanutbutter",
+      "clicked" : false,
+      "image":
+        ""
+    },
+    {
+        "id": 4,
+        "name": "Diane Nguyen",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 5,
+        "name": "Todd Chavez",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 6,
+        "name": "Sarah Lynn",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 7,
+        "name": "Pinky Penguin",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 8,
+        "name": "Lenny Turteltaub",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 9,
+        "name": "Jogging Baboon",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 10,
+        "name": "Tom Jumbo-Grumbo",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 11,
+        "name": "Hollyhock Manheim-Mannheim-Guerrero-Robinson-Zilberschlag-Hsung-Fonzarelli-McQuack",
+        "clicked" : false,
+        "image":
+          ""
+      },
+      {
+        "id": 12,
+        "name": "Margo Martindale ",
+        "clicked" : false,
+        "image":
+          ""
+      }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+    {
+        "letter": "A",
+        "clicked": false
+    },
+    {
+        "letter": "B",
+        "clicked": false
+    },
+    {
+        "letter": "C",
+        "clicked": false
+    },
+    {
+        "letter": "D",
+        "clicked": false
+    },
+    {
+        "letter": "E",
+        "clicked": false
+    },
+    {
+        "letter": "F",
+        "clicked": false
+    }
+]
